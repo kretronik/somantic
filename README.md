@@ -1,5 +1,15 @@
 # Somantic change notes through pull request titles
 
+## v1.1.0 - Improvement updates
+- Add below market value and fix API
+- Enable cashflow parameter user change and add marker clusters on map
+- Add ohne-makler crawler
+- Update immowelt and immonet parser
+- Fix immowelt multipolygon geo calculation
+- Immoscout optimization
+- Fix remote run
+- Fix immoscout active updater
+
 ## v1.0.0 - Production Release (30th June 2024)
 - Update bundesland
 - Increase sleep osm query
